@@ -1,0 +1,13 @@
+.target {
+    position: absolute;
+
+    width: 50px;
+    height: 50px;
+    background-color: red;
+}
+
+#point-tag {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
